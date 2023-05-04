@@ -1,1 +1,1 @@
-{"data":{"allArticle":{"articles":[{"categories":["Setup","Tutorial"],"date":"2023-05-04 00:00:00","slug":"/my-first-article/","title":"This is my blog.","readingTime":{"text":"3 min read"}}]}}}
+{"data":{"allArticle":{"articles":[{"categories":["Setup","Tutorial"],"date":"2023-05-04 00:00:00","slug":"/my-first-article/","title":"This is my blog.","readingTime":{"text":"3 min read"}},{"categories":["Setup","Tutorial"],"date":"2023-05-04 00:00:00","slug":"/my-first-article/hi/","title":"This is my blog.","readingTime":{"text":"3 min read"}}]}}}
