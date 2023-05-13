@@ -1,5 +1,5 @@
 ---
-title: "This is my blog."
+title: "javascript & java 로 코테준비하기!"
 description: "This description will be used for the article listing and search results on Google."
 date: "2023-05-13"
 banner:
@@ -11,65 +11,64 @@ categories:
   - "Java"
   - "Codingtest"
 keywords:
-  - "Example"
-  - "Gatsby"
-  - "Markdown"
-  - "Blog"
+  - "javascript"
+  - "java"
+ 
 ---
 
-## Code block test
 
-```css
-.AClass .Subtitle {
-  margin: -0.5rem 0 0 0;
-  font-weight: 700;
-  font-size: 1.25rem;
-  line-height: 1.5rem;
-}
 
-.AnotherClass p {
-  font-size: 1.125rem;
-  margin-bottom: 2rem;
-}
 
-.AThirdClass {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-}
+# First.
 
-@media (max-width: 768px) {
-  .AClass {
-    flex-direction: column;
-  }
-  .AnotherClass {
-    display: block;
-  }
-}
-```
+찾아 보자 !  javascript & java 이둘의 공통점에 대해서 !
 
-Inline code: `print()`
+**OOP (= 객체 지향 프로그래밍)**
 
-Lorem ipsum dolor sit amed Vel ut spiritday all cultural Lili Elbe lorem in sexuality Herstory sit lorem Ac Genderless homoflexible trans Carrie Fisher Transgender love family cross-dresser ac a ut Ac xe she ut Tina Anselmi woman Marina Abramovich Lesbians and Gays Support the Miners Ipsum Chimamanda Ngozi sed sit Equal movement gender ut est lorem Laura Jane Grace Emma Watson sem eu.
+: 객체( 변수 +함수)들을 만들어, 이들 간의 상호작용을 중심으로 프로그래밍 하는 것!
 
-**Maria Montessori vel sem in eu Leelah Alcorn** In eu Leelah Alcorn in Margaret Sanger future Martha Nussbaum eu gender non-conformity Family cross-dresser ac a ut representation drag queen Ac third wave Hannah Gadsby culture feminismus ac suffragette cisgender in a eu Ac a ut representation drag queen Out Lorem ac no means no f word sed Emmeline Pankhurst.
+![Untitled](/content/images/Untitled.png)
 
-## Second Headline
+그 다음 공통점은 ! 
 
-Est vel est appreciation Nadia Murad Basee Taha cross-dressing vel Ut mi sit ut eu id Samira Wiley sit vel sem Ut romance in gender studies ballroom Sit lorem ac no means no f word sed Emmeline Pankhurst Ac sorellanza In Lea Delaria in grrlpwr pansexual intersectional yas queen diritti id mi Sem Audre Lorde Sappho in sed et empowerment genderqueer intersex.
+.
 
-![This is the alt tag.](../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg "This is a markdown [caption](https://konstantin.digital).")
+.
 
-Feminizmas eu Dian Fossey ac third wave notion supporting androgyny dui ut People a Sylvia Plath mi sex-positivity demisexual a equality suffragettes pronouns Vel est appreciation Nadia Murad Basee Taha cross-dressing vel Sustainability ut sit dui Lesbians and Gays Support the Miners local eu Hanna Gaby Odiele est queer Misty Copeland She ut Tina Anselmi woman Marina Abramovich Lesbians and Gays Support the Miners local Equal ac et ut romance in Second wave sit friendship grl pwr castro.
+.
 
-### Third Headline
+없다! ㅎ
 
-Vel sem Sed Roxane Gay Caitlin Moran Ace id Amelia Earhart Gloria Steinem Samira Wiley sit Amelia Earhart Gloria Steinem eu In et ac in Alexandria Ocasio-Cortez Emmy Noether a Bi-visibility Dance Simone de Beauvoir eu sem.
+이름이 비슷해서 관계가 있을거라 오해할 수 있다. 
 
-#### Fourth Headline
+(그렇다, 필자의 이야기다. ㅎㅎ ) 🥹
 
-Alexandria Ocasio-Cortez Emmy Noether a Bi-visibility dui et voices Stonewall Inn sem et Ac pride month lorem et eu dui sit eu ut Eu ut Et in lorem id sed Id Kate Bornstein smash the patriarchy et et eu motivational ut In Chimamanda Ngozi sed sit strength.
+**확실히 알아두자 !** 
 
-![This is the alt tag.](../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg)
+자바스크립트와 자바는 이름만 비슷할뿐, 다른 목적, 설계철학, 역사, 사용사례를 가진다. 
 
-Vel herstory Bossy sit ac xe she ut Tina Anselmi woman Marina Abramovich Spiritday all cultural Lili Elbe lorem in sexuality Transformation lgbt freedom et ac sem Sem we are everywhere Notion supporting androgyny dui ut dance Simone de Beauvoir eu sem sit Inge Schonöethal Feltrinelli female gaze ac Franca viola.
+⇒ 자바스크립트와 자바는 완전 다른 언어이다. 
+
+![Untitled](/content/images/Untitled%201.png)
+
+(feat. 피티형아 🦾)
+
+# Why?
+
+그런데 왜 굳이 서로다른 두개의 언어로 코테를 준비하는가 ! 
+
+### “ 하하 그냥 😅 “  (마쓱 )
+
+나의 주언어는 ‘javascript’다.
+
+그런데 요즘 백엔드 공부를 시작하며 ‘java’를 공부하고 있다! 
+
+배운건 써먹고 싶고, 주언어는 계속해서 발전시키고 싶다.
+
+굳이 이유를 말해야한다면, 이게 이유다 ! 하핫 
+
+![Untitled](/content/images/Untitled1.png)
+
+앞으로 자바스크립트와 자바로 코테를 풀어서 올려보려고한다! 
+
+(자바 짬이 차면 자바스크립트와 자바를 비교도 해볼예정이다! ㅋㅋ ~~나 꽤나 건방지네 ㅎㅎ~~ )
