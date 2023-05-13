@@ -1,14 +1,15 @@
 ---
 title: "This is my blog."
 description: "This description will be used for the article listing and search results on Google."
-date: "2023-05-04"
+date: "2023-05-13"
 banner:
   src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
   alt: "First Markdown Post"
   caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:
-  - "Setup"
-  - "Tutorial"
+  - "Javascript"
+  - "Java"
+  - "Codingtest"
 keywords:
   - "Example"
   - "Gatsby"
